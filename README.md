@@ -44,4 +44,4 @@ python Game/Game.py <ip адрес сервера>
 * Пробел - двигаться
 
 ### Скриншот игры
-<img alt="img.png" src="img.png"/>
+<img alt="game.jpg" src="game.jpg"/>
